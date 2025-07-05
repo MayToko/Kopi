@@ -11863,7 +11863,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 <=============== Kids Channels =====================>
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png", CHANNEL | KIDS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KIDS
 
 
 EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png" group-title="CHANNEL | KIDS",ID DreamWorks
