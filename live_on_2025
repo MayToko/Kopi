@@ -7575,10 +7575,14 @@ https://streamo.web.id/api/1/get/live/tv/channel/19.mpd
 #EXTINF:-1 tvg-id="RTV.IPTV" tvg-name="RTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/rtv.png",RTV
 https://streamo.web.id/api/1/get/live/tv/channel/20.mpd
 
+
+
+
+
 editttttttt=========>
 
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png",RCTI (V+)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -7598,10 +7602,10 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png" group-title="CHANNEL | INDONESIA", RCTI Live Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvsystem.my.id/img/RCTI.png" group-title="CHANNEL | INDONESIA", RCTI Live Sports
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png" group-title="CHANNEL | INDONESIA", GTV (V+)
+#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://iptvsystem.my.id/img/gtv.png" group-title="CHANNEL | INDONESIA", GTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -7610,10 +7614,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://allcutv.rctiplus.id/gtv2023.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-
-
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/9e138905ec264209945921a5c4295dbe.png" group-title="CHANNEL | INDONESIA", GTV 🔵
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62239
 
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/adbd6b89f16d406ab26559a780f010f5.png" group-title="CHANNEL | INDONESIA", MNC TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7666,8 +7666,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e773b02392/25aba9a19bfa424ea7012dd0c25613f2.png" group-title="CHANNEL | INDONESIA", Indosiar 🔵
-http://boski.streamtv.to:8080/Jeffrey2905/xy86trUDpl/62227
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="CHANNEL | INDONESIA", MOJI (INDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -7746,16 +7744,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
-
-
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="CHANNEL | INDONESIA", Kompas TV (FMX)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571 
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd 
-
-
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="CHANNEL | INDONESIA", Kompas TV (V+)
+#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://iptvsystem.my.id/img/kompastv.png" group-title="CHANNEL | INDONESIA", Kompas TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -7809,13 +7798,6 @@ https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729c80f0d63bfc/a05085b5b64c47aaba94a330544f8436.png" group-title="CHANNEL | INDONESIA", BTV (CUBMU)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.manggatv09.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" group-title="CHANNEL | INDONESIA", JAKTV (INDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -7827,13 +7809,6 @@ https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 https://av-ch-cdn.mncnow.id/live/eds/JakTV/sa_dash/JakTV.mpd
 
 
-#EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="CHANNEL | INDONESIA", Jak tv (CUBMU)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.manggatv09.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="CHANNEL | INDONESIA", NUSANTARA TV
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
