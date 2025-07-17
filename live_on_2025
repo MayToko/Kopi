@@ -6853,19 +6853,26 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 --
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PIALA ASIA U17
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | AFC U23
+
+
+#EXTINF:-1 group-title="LIVE | AFC U23" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR FHD
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+
+
+
 
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="LIVE | PIALA ASIA U17", Sportstars 4
+#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="CHANNEL | SPORT INDO", Sportstars 4
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="LIVE | PIALA ASIA U17",Sportstars 2 HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="CHANNEL | SPORT INDO",Sportstars 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -7476,110 +7483,11 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/14.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MNCTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/mnctv.png",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/15.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/gtv.png",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/16.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://streamo.web.id/api/1/get/live/tv/channel/1.mpd
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TransTV (V+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-#EXTINF:-1 tvg-id="MDTV.IPTV" tvg-name="MDTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/4.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/5
-#EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://streamo.web.id/api/1/get/live/tv/channel/5.mpd
-
-#EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/6.m3u8
-
-#EXTINF:-1 tvg-id="CNBCIndonesia.IPTV" tvg-name="CNBCIndonesia.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/cnbcindonesia.png",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/7.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.IPTV" tvg-name="ANTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/8.mpd
-
-#EXTINF:-1 tvg-id="TVOne.IPTV" tvg-name="TVOne.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/tvone.png",TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/10.m3u8
-
-#EXTINF:-1 tvg-id="KompasTv.IPTV" tvg-name="Kompastv.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/kompastv.png",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/9.mpd
-
-#EXTINF:-1 tvg-id="MetroTV.IPTV" tvg-name="MetroTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/metrotv.png",METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/11.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="INews.IPTV" tvg-name="INews.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/inews.png",INews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/17.mpd
-
-#EXTINF:-1 tvg-id="JTV.IPTV" tvg-name="JTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/jtv.png",JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/12.mpd
-
-#EXTINF:-1 tvg-id="JakTV.IPTV" tvg-name="JakTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/jaktv.png",Jak TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/13.mpd
-
-#EXTINF:-1 tvg-id="Magna.IPTV" tvg-name="Magna.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/magna.png",Magna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streamo.web.id/api/1/get/live/tv/channel/18.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/19
-#EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://streamo.web.id/api/1/get/live/tv/channel/19.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/20
-#EXTINF:-1 tvg-id="RTV.IPTV" tvg-name="RTV.IPTV" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptvsystem.my.id/img/rtv.png",RTV
-https://streamo.web.id/api/1/get/live/tv/channel/20.mpd
-
-
-
-
-
-editttttttt=========>
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd>
 
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI (V+)
@@ -8855,9 +8763,8 @@ https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | LIGA TARKAM
 
-#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="LIVE | LIGA TARKAM",INDOSIAR
-##https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+#EXTINF:-1 group-title="LIVE | LIGA TARKAM" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR FHD
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 
 
@@ -14251,11 +14158,7 @@ https://hakim45.serv00.net/smarttv.php?id=Mnctv
 #EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV FHD
 https://hakim45.serv00.net/smarttv.php?id=Gtv
 
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="CHANNEL | INDONESIA PREMIUM",MOJI
-##EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##EXTVLCOPT:http-referrer=http://dens.tv
-##http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="CHANNEL | INDONESIA PREMIUM", MOJI FHD
 http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
