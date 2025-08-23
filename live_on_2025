@@ -10757,41 +10757,27 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium595
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://looooooool.footfast.net/event/595.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
-#https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-5.jpg" group-title="LIVE | LIGA INGGRIS",Champions TV 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=9182&type=drm 
+https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
-#https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
-#https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
-#https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
-#https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIVE | LIGA INGGRIS",Optus Sport 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
-#https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-6.jpg" group-title="LIVE | LIGA INGGRIS",Champions TV 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=9183&type=drm 
+https://red.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 
 
